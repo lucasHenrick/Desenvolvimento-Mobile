@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'ListaPedido.dart';
+import 'ExercicioListagemDePedidos/ListaPedido.dart';
 
 void main() {
   runApp(MyApp());
